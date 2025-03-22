@@ -2,6 +2,7 @@
 layout: single
 permalink: /news/
 title: "News"
+author_profile: true 
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
