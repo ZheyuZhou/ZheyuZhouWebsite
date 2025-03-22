@@ -21,7 +21,7 @@ title                    : "Zheyu Zhou's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zheyu Zhou"
-description              : "An amazing website."
+description              : "Zheyu Zhou's personal website"
 url                      : "https://zheyuzhou.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/ZheyuZhouWebsite"# the subpath of your site, e.g. "/blog"
 repository               : "ZheyuZhou/ZheyuZhouWebsite"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zheyu Zhou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
