@@ -118,27 +118,27 @@ author:
   bio              : "🎓 UIUC BS Engineering Mechanics <br>
 🎓 JHU MSE Mechanical Engineering <br>
 🔛 PSU PhD Mechanical Engineering"
-  location         : "Somewhere"
-  email            :
+  location         : "Shanghai, China/ PA, US"
+  # email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "zmz5337 (at) psu (dot) edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      url: "https://zheyuzhou.github.io/ZheyuZhouWebsite/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ZheyuZhou"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/zhou_zheyu_99/"
 
 # Site Footer
 footer:
