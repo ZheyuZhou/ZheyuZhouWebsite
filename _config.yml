@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Zheyu Zhou"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/image/head.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🎓 UIUC BS Engineering Mechanics <br>
 🎓 JHU MSE Mechanical Engineering <br>
 🔛 PSU PhD Mechanical Engineering"
