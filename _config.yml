@@ -123,8 +123,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "zmz5337 (at) psu (dot) edu"
-    - label: "Website"
+      url: "zmz5337(at)psu(dot) edu"
+    - label: "Personal website"
       icon: "fas fa-fw fa-link"
       url: "https://zheyuzhou.github.io/ZheyuZhouWebsite/"
     - label: "BioRob-InFL lab"
