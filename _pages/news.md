@@ -20,7 +20,7 @@ toc: false
 
 
 ## 2025
-- **2025.03.05.** Accepted as Insect Net fellow.
+- **2025.03.05.** Accepted as [Insect Net](https://insectnet.psu.edu/) fellow.
 
 ## 2024  
 - **2024.03.05.** Presented at the [APS 2024 Robophysics Session](https://www.dropbox.com/scl/fi/ymv9hh3rme4qam8br1hq9/Zheyu_VineRobot_APS.pptx?rlkey=ziz7sb4gsxm79v3d4xux1aqba&dl=0/) about rubble traversal experiments of a vine robot. Click the link to see the slides.
