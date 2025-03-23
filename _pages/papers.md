@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /papers/
-title: "Papers and Articles"
-excerpt: "Published papers and articles"
+permalink: /publications/
+title: "Publications"
+excerpt: "Published abstract and articles"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -20,16 +20,29 @@ toc_label: "Paper by Year"
 author_profile: true 
 ---
 
-## Low Vision Assistive Tool
+## Vine Robot Traversal in Cluttered Rubble
 ### 2024
-#### [Creating A “Visually Impaired” Character Recognition Model for Text Accessibility Assessment](https://iovs.arvojournals.org/article.aspx?articleid=2796994)
-**ARVO**{: .notice--primary}
+#### [Rubble traversal experiments of a vine robot](https://ui.adsabs.harvard.edu/abs/2024APS..MARD38010Z/abstract)
+**APS**{: .notice--primary}
 **2024**{: .notice--warning}
 
- **Qingying Gao**| Roberto Manduchi| Pradeep Y Ramulu| Gordon E Legge| Yingzi Xiong
+ **Zheyu Zhou**|  Yaqing Wang| Elliot Hawkes| Chen Li
 
-> **KEYWORDS**: Low Vision, Computer Vision
+> **KEYWORDS**: Vine Robot, Rubble Traversal
 
-Low vision individuals use their residual vision in their daily life to read text such as price tags, street signs, medicine labels. However, there is no objective tool for evaluating text accessibility for low vision. ... We aim to design a new framework combining OCR and human contrast sensitivity functions (CSF) to simulate the text recognition capability of low vision.
+A low-cost vine robot with pneumatic actuators was tested in simulated rubble, demonstrating that the rubble weight could limit the robot performance but a slow oscillation can help robot navigate through heavy rubble by slightly enlarging crevices.
+
+---
+
+## Ballbot Wheelchair Navigate in Complex Indoor Environment
+### 2023
+#### [A Self-Supervised Miniature One-Shot Texture Segmentation (MOSTS) Model for Real-Time Robot Navigation and Embedded Applications](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2306.08814)
+**2023**{: .notice--warning}
+
+ Yu Chen | Chirag Rastogi| **Zheyu Zhou**| William R. Norris
+
+> **KEYWORDS**:  Indoor Navigation
+
+A segmentation model for real-time indoor navigation and embedded application. It could identify small low-lying objects that were previously undetectable by depth measurements with fast inference speed for real-time navigation.
 
 ---
