@@ -27,4 +27,4 @@ toc: false
 
 
 ## 2023
-- **2023.06.15.** Manuscript about  [robot traversability map of a cluttered indoor environment](https://arxiv.org/abs/2306.08814)! Click link to see the paper.
+- **2023.06.15.** [Manuscript](https://arxiv.org/abs/2306.08814) about  robot traversability map of a cluttered indoor environment. Click link to see the paper.
